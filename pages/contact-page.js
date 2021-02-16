@@ -80,5 +80,3 @@ export default function Contact() {
     </Layout>
   );
 }
-
-export default Contact;
